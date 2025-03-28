@@ -1,4 +1,8 @@
 body {
+    
+}
+
+.principal {
     background: #CCCCCC;
 }
 
@@ -20,4 +24,16 @@ em strong {
 
 #missao {
     font-size: 20px;
+}
+
+.itens {
+    font-style: italic;
+}
+
+.beneficios {
+    background: #FFFFFF;
+}
+
+h2 {
+    text-align: center;
 }
